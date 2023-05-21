@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    text-decoration: solid;
+    color: black;
+    font-weight: bolder;
+}
+body{
+    background-color: slateblue;
+}
+
+li {
+    font-weight: bold;
+  }
+  
+  .container {
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  input {
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
+  #greetingMessage {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
